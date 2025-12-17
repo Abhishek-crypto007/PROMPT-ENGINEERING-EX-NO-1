@@ -88,7 +88,5 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # Output:
-[text](ex2prompt.pdf)
 
 # Result:
-This experiment demonstrates that both the choice of AI platform and the prompting strategy significantly influence the quality of generated summaries
