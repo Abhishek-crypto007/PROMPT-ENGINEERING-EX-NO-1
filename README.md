@@ -1,7 +1,8 @@
-
 # Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
+# Date: 17.12.25
+# REG NO: 25008757
 
-.     Experiment:
+#     Experiment:
 Develop a comprehensive report for the following exercises:
 
 1.     Explain the foundational concepts of Generative AI.
@@ -14,7 +15,8 @@ Develop a comprehensive report for the following exercises:
 
 5.     Explain what an LLM is and how it is built.
    
-# Algorithm: Step 1: Define Scope and Objectives
+# Algorithm: 
+Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview) 
 
 1.2 Set the target audience level (e.g., students, professionals)
@@ -86,5 +88,7 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 
 # Output:
+[text](ex2prompt.pdf)
 
 # Result:
+This experiment demonstrates that both the choice of AI platform and the prompting strategy significantly influence the quality of generated summaries
